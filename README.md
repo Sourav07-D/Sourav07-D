@@ -6,20 +6,20 @@
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%;">
-<h1 align="center">HELLO, Sourav Das here👋</h1>
+<h1 align="center">Hey there! 👋 Sourav Das in the house! 💻 Ready to rock the coding world!</h1>
 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 👋 Hii,
+- 👋 Hey there! Ready to Rock and Code?
 
-- 🌱 I’m currently learning **Full-Stack WebDev**
+- 🌱 Mastering Full-Stack WebDev, Data Analysis, & Machine Learning! 🚀 Embrace the Trifecta of Tech Brilliance!
 
-- 👯 I’m looking to collaborate on **Creative Projects**
+- 👯 Seeking Collaborators for **Creative Ventures**! 🎨 Let's Craft Something Exceptional!
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/sourav-das-654234248/">Linkedin</a>
 
-- ⚡ Fact : **Every Expert In Anything Was Once A Beginner.**
+- ⚡ Fact: **Every Expert Was Once a Beginner!** 🌱 Growth Starts with the First Step!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%;">
 
 
@@ -45,10 +45,10 @@
 </div>  
 
 
-##  DSA ❤️ ZONE
-🚀 Excited to Share My Coding Journey and Accomplishments! 🚀
+##  DSA Enthusiast! ❤️ Level Up Your Coding Game!
+🚀 Pumped to Share My Coding Journey & Triumphs! 🚀
 
-I'm thrilled to showcase my dedication and passion for problem-solving in the world of coding. Here's a snapshot of my achievements across various coding platforms and <b>💥 I have Solved Thousand of DSA Problems on, Different-Different Coding Platforms </b>
+Thrilled to flaunt my dedication and love for coding problem-solving! Check out my myriad accomplishments across diverse coding platforms, including cracking thousands of DSA problems! 💥 </b>
 
 <p align="left"> 
 <img src="lc.png">
@@ -61,7 +61,7 @@ I'm thrilled to showcase my dedication and passion for problem-solving in the wo
 </p> 
 
 
-## 🚀 Languages and Tools:
+## 🛠️ Mastering Languages & Tools! 🚀 Unleash Your Coding Arsenal!:
 
 <p align="left"> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/python--v1.png"/> </a>
@@ -88,14 +88,13 @@ I'm thrilled to showcase my dedication and passion for problem-solving in the wo
 
  <br/>
   <br/>
-   <br/>
+   
 
-<h3 align="left">Development:</h3>
+<h3 align="left">🌱 Cultivating Development Skills! 🌟 Let's Build Something Extraordinary!</h3>
 <table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
+Fueled by the ever-evolving coding journey! Ready to conquer challenges and celebrate victories ahead! 💻✨
+<br/>
+### 🎨 Crafting Frontend Magic! ✨ Let's Design Engaging User Experiences!  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -112,7 +111,7 @@ I'm thrilled to showcase my dedication and passion for problem-solving in the wo
 
 
 
-### Backend  
+### 🔙 Powering Up the Backend! 💥 Elevate Your Code Infrastructure!  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -147,7 +146,7 @@ I'm thrilled to showcase my dedication and passion for problem-solving in the wo
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%;">
 
-## 📊 My Github Stats
+## 📊 Explore My GitHub Stats! 🚀 Let's Dive into the Code Adventure!
 
    <br/>
 <a href="https://github.com/Sourav07-D/github-readme-stats"><img alt="Sourav Das Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sourav07-D&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -164,7 +163,7 @@ I'm thrilled to showcase my dedication and passion for problem-solving in the wo
 <br/>
 
 
-## 📈 Graph
+## 📈 Dive into the Graph! 🚀 Visualize the Journey in Style!
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
