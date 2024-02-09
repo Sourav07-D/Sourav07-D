@@ -126,7 +126,7 @@
 </p>
 
 
-[![Sourav Das GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sourav07-Db&theme=github-compact)](https://github.com/Sourav07-D/github-readme-activity-graph)
+[![Sourav Das GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sourav07-D&theme=github-compact)](https://github.com/Sourav07-D/github-readme-activity-graph)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Sourav_7Das?ext=heatmap)
 
