@@ -59,10 +59,10 @@ Thrilled to flaunt my dedication and love for coding problem-solving! Check out 
 <img src="wk.png" height="96px" width="96px">
 
 </p> 
-
+<br/>
 
 ## 🛠️ Mastering Languages & Tools! 🚀 Unleash Your Coding Arsenal!:
-
+<br/>
 <p align="left"> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/python--v1.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
@@ -97,7 +97,7 @@ Fueled by the ever-evolving coding journey! Ready to conquer challenges and cele
 <br/>
 <br/>
 <table><tr><td valign="top" width="33%">
-### 🎨 Crafting Frontend Magic! ✨ Let's Design Engaging User Experiences!  
+### 🎨 Crafting Frontend Magic! ✨ : 
     <br/>
     <br/>
 <div align="center">  
@@ -116,7 +116,7 @@ Fueled by the ever-evolving coding journey! Ready to conquer challenges and cele
 
 
 
-### 🔙 Powering Up the Backend! 💥 Elevate Your Code Infrastructure!  
+### 🔙 Powering Up the Backend! 💥: 
 <br/>
 <br/>
 <div align="center">  
