@@ -91,9 +91,9 @@ Thrilled to flaunt my dedication and love for coding problem-solving! Check out 
    
 
 <h3 align="left">🌱 Cultivating Development Skills! 🌟 Let's Build Something Extraordinary!</h3>
-<table><tr><td valign="top" width="33%">
 Fueled by the ever-evolving coding journey! Ready to conquer challenges and celebrate victories ahead! 💻✨
 <br/>
+<table><tr><td valign="top" width="33%">
 ### 🎨 Crafting Frontend Magic! ✨ Let's Design Engaging User Experiences!  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
