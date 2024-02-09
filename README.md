@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Creative Projects**
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/ajaymahiwal/">Linkedin</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/sourav-das-654234248/">Linkedin</a>
 
 - ⚡ Fact : **Every Expert In Anything Was Once A Beginner.**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%;">
