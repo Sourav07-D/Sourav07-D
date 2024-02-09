@@ -46,6 +46,9 @@
 
 
 ##  DSA ❤️ ZONE
+🚀 Excited to Share My Coding Journey and Accomplishments! 🚀
+
+I'm thrilled to showcase my dedication and passion for problem-solving in the world of coding. Here's a snapshot of my achievements across various coding platforms and <b>💥 I have Solved Thousand of DSA Problems on, Different-Different Coding Platforms </b>
 
 <p align="left"> 
 <img src="lc.png">
@@ -86,8 +89,6 @@
  <br/>
   <br/>
    <br/>
-    <br/>
-     <br/>
 
 <h3 align="left">Development:</h3>
 <table><tr><td valign="top" width="33%">
