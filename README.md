@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <a target="_blank" href="https://auth.geeksforgeeks.org/user/sd309egm4">
@@ -44,6 +45,20 @@
 </div>  
 
 
+## ❤️ DSA ZONE
+
+<p align="left"> 
+<img src="lc.png">
+<img src="gfg.png">
+<img src="ib.png" height="96px" width="96px">
+<img src="cn.png">
+<img src="hr.png">
+<img src="he.png" height="96px" width="96px"> 
+<img src="cc.png" height="96px" width="96px">
+<img src="cf.png">
+<img src="wk.png" height="96px" width="96px">
+
+</p> 
 
 
 <h3 align="left">Languages and Tools:</h3>
