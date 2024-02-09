@@ -45,7 +45,7 @@
 </div>  
 
 
-## ❤️ DSA ZONE
+##  DSA ❤️ ZONE
 
 <p align="left"> 
 <img src="lc.png">
@@ -82,6 +82,12 @@
     <a href="#"> <img src="https://img.icons8.com/officel/96/react.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
 </p>
+
+ <br/>
+  <br/>
+   <br/>
+    <br/>
+     <br/>
 
 <h3 align="left">Development:</h3>
 <table><tr><td valign="top" width="33%">
