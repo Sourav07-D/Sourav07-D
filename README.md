@@ -95,8 +95,8 @@ Thrilled to flaunt my dedication and love for coding problem-solving! Check out 
 Fueled by the ever-evolving coding journey! Ready to conquer challenges and celebrate victories ahead! 💻✨
 <br/>
 <br/>
-<br/>
 <table><tr><td valign="top" width="33%">
+    <br/>
 ### 🎨 Crafting Frontend Magic! ✨ : 
     <br/>
     <br/>
