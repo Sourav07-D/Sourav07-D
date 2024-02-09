@@ -103,6 +103,21 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%;">
 
+## 📊 My Github Stats
+
+   <br/>
+<a href="https://github.com/Sourav07-D/github-readme-stats"><img alt="Sourav Das Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sourav07-D&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Sourav07-D/github-readme-stats"><img alt="Sourav Das Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav07-D&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<br/>
+
+
+
+<br/>
+<br/>
 
 
 ## 📈 Graph
