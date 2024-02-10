@@ -60,7 +60,6 @@ Thrilled to flaunt my dedication and love for coding problem-solving! Check out 
 
 </p> 
 <br/>
-![Leetcode Stats](https://leetcard.jacoblin.cool/Sourav_7Das?ext=heatmap)
 ## 🛠️ Mastering Languages & Tools! 🚀 Unleash Your Coding Arsenal!:
 <br/>
 <p align="left"> 
