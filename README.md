@@ -59,6 +59,7 @@ Thrilled to flaunt my dedication and love for coding problem-solving! Check out 
 <img src="wk.png" height="96px" width="96px">
 
 </p> 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Sourav_7Das?ext=heatmap)
 <br/>
 
 ## 🛠️ Mastering Languages & Tools! 🚀 Unleash Your Coding Arsenal!:
