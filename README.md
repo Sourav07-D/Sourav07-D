@@ -51,7 +51,8 @@
 Thrilled to flaunt my dedication and love for coding problem-solving! Check out my myriad accomplishments across diverse coding platforms, including cracking thousands of DSA problems! 💥 </b>
 
 <p align="left"> 
-<img src="lc.png">
+     <a href="https://leetcode.com/Sourav_7Das/"> <img src="lc.png"> </a>
+
 <img src="gfg.png">
 <img src="ib.png" height="96px" width="96px">
 <img src="cn.png">
