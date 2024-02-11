@@ -17,7 +17,7 @@
 
 - 👯 Seeking Collaborators for **Creative Ventures**! 🎨 Let's Craft Something Exceptional!
 
-- 📫 How to reach me  : <a>sd309382@gmail.com</a>
+- 📫 How to reach me  : <a>sd309382@gmail.com!</a>
 
 - ⚡ Fact: **Every Expert Was Once a Beginner!** 🌱 Growth Starts with the First Step!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%;">
