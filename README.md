@@ -53,7 +53,7 @@ Thrilled to flaunt my dedication and love for coding problem-solving! Check out 
  <a href="https://www.interviewbit.com/profile/sourav-das_366/"><img src="ib.png" height="96px" width="96px"> </a>
  <a href="https://www.codingninjas.com/studio/profile/3f5dabde-e32c-46c9-a1f6-380ea695eeed"><img src="cn.png"> </a>
  <a href="https://www.hackerrank.com/profile/sd309382"><img src="hr.png"> </a>
- <a href="https://www.proelevate.in/dsa-practice/6-companies-30-days"><img src="wk.png" height="96px" width="96px"> </a>
+ <a href=""><img src="wk.png" height="96px" width="96px"> </a>
 
 
 </p> 
