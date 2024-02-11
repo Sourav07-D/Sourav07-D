@@ -176,5 +176,5 @@ Fueled by the ever-evolving coding journey! Ready to conquer challenges and cele
 
 [![Sourav Das GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sourav07-D&theme=github-compact)](https://github.com/Sourav07-D/github-readme-activity-graph)
 
-![](https://leetcard.jacoblin.cool/Sourav_7Das?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Sourav_7Das?ext=heatmap)
 
