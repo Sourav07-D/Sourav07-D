@@ -17,7 +17,7 @@
 
 - 👯 Seeking Collaborators for **Creative Ventures**! 🎨 Let's Craft Something Exceptional!
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/sourav-das-654234248/">Linkedin</a>
+- 📫 How to reach me <a href="sd309382@gmail.com">Mail</a>
 
 - ⚡ Fact: **Every Expert Was Once a Beginner!** 🌱 Growth Starts with the First Step!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%;">
