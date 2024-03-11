@@ -173,9 +173,9 @@ Fueled by the ever-evolving coding journey! Ready to conquer challenges and cele
 
 [![Sourav Das GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sourav07-D&theme=github-compact)](https://github.com/Sourav07-D/github-readme-activity-graph)
 
- <div>
+ 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sourav07-D&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+
 
 
 
