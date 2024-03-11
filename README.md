@@ -175,3 +175,5 @@ Fueled by the ever-evolving coding journey! Ready to conquer challenges and cele
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Sourav_7Das?ext=heatmap)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Njihia413&theme=dark&background=000000)](https://git.io/streak-stats)
+
