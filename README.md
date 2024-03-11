@@ -3,6 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=30&pause=1000&color=F73D61&center=true&vCenter=true&width=435&lines=Nice+to+see+you+👋;I'm+Sourav😊" alt="Typing SVG" />
   </a>
 </h1>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Njihia413&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%;">
 
