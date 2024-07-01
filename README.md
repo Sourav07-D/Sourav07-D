@@ -195,12 +195,6 @@ Fueled by the ever-evolving coding journey! Ready to conquer challenges and cele
 <br/>
 
 
-## 📈 Dive into the Graph! 🚀 Visualize the Journey in Style!
-<p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
-
 [![Sourav Das GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sourav07-D&theme=github-compact)](https://github.com/Sourav07-D/github-readme-activity-graph)
 
  
