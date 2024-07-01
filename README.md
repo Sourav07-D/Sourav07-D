@@ -19,6 +19,27 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%;">
 
 
+<br />
+<br />
+
+[**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
+<div>
+  <img align="middle" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/Readme%20Header.gif"/>
+</div>
+
+<!-- <div>
+  <img align="right" alt="GIF" height="300px" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/Readme%20Header.gif"/>
+</div> -->
+
+<!-- <div>
+[<img src="https://now-playing-vmk56a653q0yly06o3lmgi3g0.vercel.app/api/spotify-playing" alt="Sagnik Spotify Playing" width="350" />](https://open.spotify.com/playlist/6DDPsthhJTWi0Tnes8kXFo)
+</div> -->
+
+<br />
+<br />
+<br />
+
+
 <h3 align="left">Connect with me:</h3>
 
 <div align="center">
