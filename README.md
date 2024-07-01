@@ -72,7 +72,16 @@ Thrilled to flaunt my dedication and love for coding problem-solving! Check out 
 <div>
   <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
 </div>
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## 🛠️ Mastering Languages & Tools! 🚀 Unleash Your Coding Arsenal!:
 <br/>
