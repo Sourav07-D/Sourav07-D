@@ -57,6 +57,23 @@ Thrilled to flaunt my dedication and love for coding problem-solving! Check out 
 
 </p> 
 <br/>
+
+
+<br />
+<br />
+<br />
+
+<div>
+<a href="https://open.spotify.com/embed/playlist/6DDPsthhJTWi0Tnes8kXFo">
+  <img align="left" alt="Spotify Now Playing" src="https://spotify-sagnikghoshcr7.vercel.app/api/spotify" />
+</a>
+</div>
+
+<div>
+  <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
+</div>
+
+
 ## 🛠️ Mastering Languages & Tools! 🚀 Unleash Your Coding Arsenal!:
 <br/>
 <p align="left"> 
