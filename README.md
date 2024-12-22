@@ -205,7 +205,7 @@ Fueled by the ever-evolving coding journey! Ready to conquer challenges and cele
    <br/>
     <br/>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Sourav_7Das?ext=heatmap)
+
 
 
 
