@@ -11,7 +11,7 @@
 
 - 👋 Hey there! Ready to Rock and Code?
 - 🔭 I’m currently working on [TASK-API](https://github.com/Sourav07-D/task-api)
-- 🌱 Mastering Full-Stack WebDev, Data Analysis, & Machine Learning! 🚀 Embrace the Trifecta of Tech Brilliance!
+- 🌱 Mastering Java Backend Development, Data Analysis, & Machine Learning! 🚀 Embrace the Trifecta of Tech Brilliance!
 - 👯 Seeking Collaborators for **Creative Ventures**! 🎨 Let's Craft Something Exceptional!
 - 📫 How to reach me  : <a><i>sd309382@gmail.com</i></a>
 
