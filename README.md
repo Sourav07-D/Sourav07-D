@@ -40,12 +40,6 @@
 </a>  
 </div>  
 
-<div>
-<a href="https://open.spotify.com/embed/playlist/6DDPsthhJTWi0Tnes8kXFo">
-  <img align="left" alt="Spotify Now Playing" src="https://spotify-sagnikghoshcr7.vercel.app/api/spotify" />
-</a>
-</div>
-
 
 ##  DSA Enthusiast! ❤️ Level Up Your Coding Game!
 🚀 Pumped to Share My Coding Journey & Triumphs! 🚀
@@ -68,7 +62,11 @@ Thrilled to flaunt my dedication and love for coding problem-solving! Check out 
 <br />
 <br />
 
-
+<div>
+<a href="https://open.spotify.com/embed/playlist/6DDPsthhJTWi0Tnes8kXFo">
+  <img align="left" alt="Spotify Now Playing" src="https://spotify-sagnikghoshcr7.vercel.app/api/spotify" />
+</a>
+</div>
 
 <div>
   <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
